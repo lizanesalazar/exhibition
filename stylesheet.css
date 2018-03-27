@@ -1,0 +1,41 @@
+body {
+    background-color: #FFE9E9;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 8px solid green;
+    padding: 10px;
+}
+
+h1 {
+color:#5B532B;
+font-size:60px;
+}
+
+p {
+font-size:25px;
+color:#687B59;
+}
+
+img {
+   padding:10px;
+   border:8px solid #E1E7D0;
+   background-color:#E1E7D0;
+}
+
+.cell {cursor: cell;
+}
+
+li {
+color:#687B59;
+}
+
+ol {
+color:#687B59;
+}
+
+.module {
+  cursor: url('path-to-image.png'), auto;	
+}
