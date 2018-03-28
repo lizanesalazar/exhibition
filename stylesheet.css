@@ -2,13 +2,6 @@ body {
     background-color: #FFE9E9;
 }
 
-.center {
-    margin: auto;
-    width: 50%;
-    border: 8px solid green;
-    padding: 10px;
-}
-
 h1 {
 color:#5B532B;
 font-size:60px;
